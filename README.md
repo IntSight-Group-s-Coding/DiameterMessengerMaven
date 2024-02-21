@@ -1,0 +1,2 @@
+# DiameterMessengerMaven
+Diameter Testing Suite
